@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
-Sitemap: https://dydrkrtks7-cmd.github.io/bp-sf-t3-1779642634270-001/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://yeouido-song-room.mens-esthe.space/sitemap.xml
